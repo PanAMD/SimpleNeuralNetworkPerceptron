@@ -1,0 +1,277 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>assets/icons/about.ico</file>
+        <file>assets/icons/add (2).ico</file>
+        <file>assets/icons/add.ico</file>
+        <file>assets/icons/add-favorite.ico</file>
+        <file>assets/icons/add-file.ico</file>
+        <file>assets/icons/add-folder.ico</file>
+        <file>assets/icons/add-note.ico</file>
+        <file>assets/icons/add-printer.ico</file>
+        <file>assets/icons/add-star.ico</file>
+        <file>assets/icons/add-user.ico</file>
+        <file>assets/icons/adim.ico</file>
+        <file>assets/icons/alert.ico</file>
+        <file>assets/icons/annexed.ico</file>
+        <file>assets/icons/app.ico</file>
+        <file>assets/icons/app_chart.ico</file>
+        <file>assets/icons/app_large_icons.ico</file>
+        <file>assets/icons/app_options.ico</file>
+        <file>assets/icons/app_preferences.ico</file>
+        <file>assets/icons/applications.ico</file>
+        <file>assets/icons/apply.ico</file>
+        <file>assets/icons/apps.ico</file>
+        <file>assets/icons/back (2).ico</file>
+        <file>assets/icons/back.ico</file>
+        <file>assets/icons/back-.ico</file>
+        <file>assets/icons/back-2.ico</file>
+        <file>assets/icons/back-3.ico</file>
+        <file>assets/icons/ball_green.ico</file>
+        <file>assets/icons/ball_red.ico</file>
+        <file>assets/icons/ball_yellow.ico</file>
+        <file>assets/icons/banner.ico</file>
+        <file>assets/icons/basket.ico</file>
+        <file>assets/icons/book.ico</file>
+        <file>assets/icons/bookmarck.ico</file>
+        <file>assets/icons/bookmarck2.ico</file>
+        <file>assets/icons/box.ico</file>
+        <file>assets/icons/bt_ff.ico</file>
+        <file>assets/icons/bt_pause.ico</file>
+        <file>assets/icons/bt_play.ico</file>
+        <file>assets/icons/bt_rev.ico</file>
+        <file>assets/icons/bt_skip_bk.ico</file>
+        <file>assets/icons/bt_skip_sw.ico</file>
+        <file>assets/icons/bt_stop.ico</file>
+        <file>assets/icons/burn.ico</file>
+        <file>assets/icons/cal.ico</file>
+        <file>assets/icons/calculator (2).ico</file>
+        <file>assets/icons/calculator.ico</file>
+        <file>assets/icons/calendar.ico</file>
+        <file>assets/icons/camera.ico</file>
+        <file>assets/icons/cancel.ico</file>
+        <file>assets/icons/cash-register.ico</file>
+        <file>assets/icons/cc.ico</file>
+        <file>assets/icons/cd (2).ico</file>
+        <file>assets/icons/cd.ico</file>
+        <file>assets/icons/cel.ico</file>
+        <file>assets/icons/chat (2).ico</file>
+        <file>assets/icons/chat.ico</file>
+        <file>assets/icons/clock.ico</file>
+        <file>assets/icons/computer.ico</file>
+        <file>assets/icons/configure.ico</file>
+        <file>assets/icons/contacts.ico</file>
+        <file>assets/icons/copy (2).ico</file>
+        <file>assets/icons/copy.ico</file>
+        <file>assets/icons/cut (2).ico</file>
+        <file>assets/icons/cut.ico</file>
+        <file>assets/icons/data.ico</file>
+        <file>assets/icons/db.ico</file>
+        <file>assets/icons/db1.ico</file>
+        <file>assets/icons/db2.ico</file>
+        <file>assets/icons/db3.ico</file>
+        <file>assets/icons/db4.ico</file>
+        <file>assets/icons/db5.ico</file>
+        <file>assets/icons/db6.ico</file>
+        <file>assets/icons/db7.ico</file>
+        <file>assets/icons/ddb8.ico</file>
+        <file>assets/icons/delete (2).ico</file>
+        <file>assets/icons/delete.ico</file>
+        <file>assets/icons/delete-user.ico</file>
+        <file>assets/icons/dollar.ico</file>
+        <file>assets/icons/down (2).ico</file>
+        <file>assets/icons/down.ico</file>
+        <file>assets/icons/down-.ico</file>
+        <file>assets/icons/download.ico</file>
+        <file>assets/icons/edit.ico</file>
+        <file>assets/icons/edit-tool.ico</file>
+        <file>assets/icons/email.ico</file>
+        <file>assets/icons/engine.ico</file>
+        <file>assets/icons/euro.ico</file>
+        <file>assets/icons/ewe.png</file>
+        <file>assets/icons/explorer.ico</file>
+        <file>assets/icons/export.ico</file>
+        <file>assets/icons/fast-forward.ico</file>
+        <file>assets/icons/favorits.ico</file>
+        <file>assets/icons/favorits_add.ico</file>
+        <file>assets/icons/favorits1.ico</file>
+        <file>assets/icons/fax.ico</file>
+        <file>assets/icons/file.ico</file>
+        <file>assets/icons/file_apply.ico</file>
+        <file>assets/icons/file_del.ico</file>
+        <file>assets/icons/file_document.ico</file>
+        <file>assets/icons/file_edit.ico</file>
+        <file>assets/icons/file_exclude.ico</file>
+        <file>assets/icons/file_find.ico</file>
+        <file>assets/icons/file_lock.ico</file>
+        <file>assets/icons/file_new.ico</file>
+        <file>assets/icons/file_temp.ico</file>
+        <file>assets/icons/file_web.ico</file>
+        <file>assets/icons/file-lock.ico</file>
+        <file>assets/icons/find.ico</file>
+        <file>assets/icons/find-at-disc.ico</file>
+        <file>assets/icons/find-file.ico</file>
+        <file>assets/icons/first-page.ico</file>
+        <file>assets/icons/folder (2).ico</file>
+        <file>assets/icons/folder.ico</file>
+        <file>assets/icons/folder_downloads.ico</file>
+        <file>assets/icons/folder_find.ico</file>
+        <file>assets/icons/folder_new.ico</file>
+        <file>assets/icons/folder_open.ico</file>
+        <file>assets/icons/folder-open.ico</file>
+        <file>assets/icons/forward.ico</file>
+        <file>assets/icons/ftp.ico</file>
+        <file>assets/icons/full-basket.ico</file>
+        <file>assets/icons/game.ico</file>
+        <file>assets/icons/go.ico</file>
+        <file>assets/icons/group.ico</file>
+        <file>assets/icons/hd (2).ico</file>
+        <file>assets/icons/hd.ico</file>
+        <file>assets/icons/hd_web.ico</file>
+        <file>assets/icons/hd-as.ico</file>
+        <file>assets/icons/help (2).ico</file>
+        <file>assets/icons/help.ico</file>
+        <file>assets/icons/history (2).ico</file>
+        <file>assets/icons/history.ico</file>
+        <file>assets/icons/home (2).ico</file>
+        <file>assets/icons/home.ico</file>
+        <file>assets/icons/html.ico</file>
+        <file>assets/icons/import.ico</file>
+        <file>assets/icons/info (2).ico</file>
+        <file>assets/icons/info.ico</file>
+        <file>assets/icons/install.ico</file>
+        <file>assets/icons/installer.ico</file>
+        <file>assets/icons/last-page.ico</file>
+        <file>assets/icons/lock (2).ico</file>
+        <file>assets/icons/lock.ico</file>
+        <file>assets/icons/mail.ico</file>
+        <file>assets/icons/mail_delete.ico</file>
+        <file>assets/icons/mail_find.ico</file>
+        <file>assets/icons/mail_forward.ico</file>
+        <file>assets/icons/mail_generic.ico</file>
+        <file>assets/icons/mail_get.ico</file>
+        <file>assets/icons/mail_new.ico</file>
+        <file>assets/icons/mail_replay.ico</file>
+        <file>assets/icons/mail_replayall.ico</file>
+        <file>assets/icons/mail_reply.ico</file>
+        <file>assets/icons/mail_replyall.ico</file>
+        <file>assets/icons/mail_send.ico</file>
+        <file>assets/icons/misc1.ico</file>
+        <file>assets/icons/misc2.ico</file>
+        <file>assets/icons/misc3.ico</file>
+        <file>assets/icons/misc4.ico</file>
+        <file>assets/icons/monitor.ico</file>
+        <file>assets/icons/network.ico</file>
+        <file>assets/icons/new.ico</file>
+        <file>assets/icons/next-.ico</file>
+        <file>assets/icons/next-2.ico</file>
+        <file>assets/icons/note (2).ico</file>
+        <file>assets/icons/note.ico</file>
+        <file>assets/icons/objects.ico</file>
+        <file>assets/icons/ok.ico</file>
+        <file>assets/icons/paste (2).ico</file>
+        <file>assets/icons/paste.ico</file>
+        <file>assets/icons/pause.ico</file>
+        <file>assets/icons/phone.ico</file>
+        <file>assets/icons/pictures (2).ico</file>
+        <file>assets/icons/pictures.ico</file>
+        <file>assets/icons/play.ico</file>
+        <file>assets/icons/police.ico</file>
+        <file>assets/icons/price.ico</file>
+        <file>assets/icons/print (2).ico</file>
+        <file>assets/icons/print.ico</file>
+        <file>assets/icons/print_preview.ico</file>
+        <file>assets/icons/print-preview.ico</file>
+        <file>assets/icons/record.ico</file>
+        <file>assets/icons/redo.ico</file>
+        <file>assets/icons/refresh (2).ico</file>
+        <file>assets/icons/refresh.ico</file>
+        <file>assets/icons/remove (2).ico</file>
+        <file>assets/icons/remove.ico</file>
+        <file>assets/icons/remove-file.ico</file>
+        <file>assets/icons/remove-folder.ico</file>
+        <file>assets/icons/remove-note.ico</file>
+        <file>assets/icons/reward.ico</file>
+        <file>assets/icons/save (2).ico</file>
+        <file>assets/icons/save.ico</file>
+        <file>assets/icons/saveas.ico</file>
+        <file>assets/icons/save-as.ico</file>
+        <file>assets/icons/saveas2.ico</file>
+        <file>assets/icons/save-new.ico</file>
+        <file>assets/icons/search.ico</file>
+        <file>assets/icons/settings.ico</file>
+        <file>assets/icons/shop_cart.ico</file>
+        <file>assets/icons/shop_cart2.ico</file>
+        <file>assets/icons/sitemap.ico</file>
+        <file>assets/icons/smiley.ico</file>
+        <file>assets/icons/smille.ico</file>
+        <file>assets/icons/sound (2).ico</file>
+        <file>assets/icons/sound off.ico</file>
+        <file>assets/icons/sound.ico</file>
+        <file>assets/icons/sound-off.ico</file>
+        <file>assets/icons/star (2).ico</file>
+        <file>assets/icons/star.ico</file>
+        <file>assets/icons/statistics.ico</file>
+        <file>assets/icons/statistics2.ico</file>
+        <file>assets/icons/stop (2).ico</file>
+        <file>assets/icons/stop.ico</file>
+        <file>assets/icons/stop2.ico</file>
+        <file>assets/icons/support.ico</file>
+        <file>assets/icons/toolbox.ico</file>
+        <file>assets/icons/trash.ico</file>
+        <file>assets/icons/undo.ico</file>
+        <file>assets/icons/uninstall.ico</file>
+        <file>assets/icons/unlock (2).ico</file>
+        <file>assets/icons/unlock.ico</file>
+        <file>assets/icons/up (2).ico</file>
+        <file>assets/icons/up.ico</file>
+        <file>assets/icons/up-.ico</file>
+        <file>assets/icons/upload.ico</file>
+        <file>assets/icons/user.ico</file>
+        <file>assets/icons/user2.ico</file>
+        <file>assets/icons/user3.ico</file>
+        <file>assets/icons/user-offline.ico</file>
+        <file>assets/icons/user-online.ico</file>
+        <file>assets/icons/users.ico</file>
+        <file>assets/icons/view.ico</file>
+        <file>assets/icons/view-save.ico</file>
+        <file>assets/icons/web.ico</file>
+        <file>assets/icons/web_app.ico</file>
+        <file>assets/icons/web_downloads.ico</file>
+        <file>assets/icons/web_find.ico</file>
+        <file>assets/icons/web_uploads.ico</file>
+        <file>assets/icons/web-dir.ico</file>
+        <file>assets/icons/web-search.ico</file>
+        <file>assets/icons/window.ico</file>
+        <file>assets/icons/windows.ico</file>
+        <file>assets/icons/wizard.ico</file>
+        <file>assets/icons/zoom-.ico</file>
+        <file>assets/icons/zoom_in.ico</file>
+        <file>assets/icons/zoom_out.ico</file>
+        <file>assets/icons/zoom+.ico</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>assets/images/background.gif</file>
+        <file>assets/images/Contacts.png</file>
+        <file>assets/images/tittle.png</file>
+        <file>assets/images/background2.gif</file>
+        <file>assets/images/icon.png</file>
+        <file>assets/images/secCopyTittle.png</file>
+        <file>assets/images/Advanced search.png</file>
+        <file>assets/images/kirbo.gif</file>
+        <file>assets/images/boolopt.png</file>
+        <file>assets/images/boolsrch.png</file>
+        <file>assets/images/byid.png</file>
+        <file>assets/images/byPrimIdx.png</file>
+        <file>assets/images/bySecIdx.png</file>
+        <file>assets/images/bySender.png</file>
+        <file>assets/images/srchOpts.png</file>
+        <file>assets/images/background3.gif</file>
+        <file>assets/images/byram.png</file>
+        <file>assets/images/compress.png</file>
+        <file>assets/images/securityUtility.png</file>
+        <file>assets/images/egg.gif</file>
+        <file>assets/images/Sayori.gif</file>
+        <file>assets/images/yuri.gif</file>
+        <file>assets/images/perceptron.png</file>
+    </qresource>
+</RCC>
